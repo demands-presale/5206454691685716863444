@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662786326704",
+    "project_id": "takon-ai",
+    "storage_bucket": "takon-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662786326704:android:40ae89681145361b767b75",
+        "android_client_info": {
+          "package_name": "com.seonjusan.takon_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662786326704-9slu05cfr71ueofg2a3088u58n7okrh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-NVKI6uBTHGUArOcHpyZfuDIpYTMJuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662786326704-9slu05cfr71ueofg2a3088u58n7okrh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
